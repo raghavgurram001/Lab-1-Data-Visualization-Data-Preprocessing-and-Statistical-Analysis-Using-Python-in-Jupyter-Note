@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## File Structure
 ```
 .
-├── Weather_Analysis.ipynb   # Main notebook
+├── lab-1-weather-data-analysis.ipynb   # Main notebook
 ├── Project 1 - Weather Dataset.csv
 └── README.md                # This file
 ```
